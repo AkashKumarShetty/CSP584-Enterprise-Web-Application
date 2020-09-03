@@ -1,0 +1,193 @@
+eventid,eventname,sportscategory,eventdate,eventplace,eventcity,eventstate,eventzipcode,discount
+104242075,"Harvard Crimson at RPI Engineers Hockey",Hockey,2019-11-22T19:00:00-0500,"Houston Field House",Troy,NY,12180,0
+104236668,"Charleston Classic Session 4",Basketball,2019-11-22T19:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104303127,"Long Island Nets at Canton Charge",Basketball,2019-11-22T19:00:00-0500,"Canton Civic Center",Canton,OH,44702,0
+104301453,"Wisconsin Herd at Westchester Knicks",Basketball,2019-11-22T19:00:00-0500,"Westchester County Center","White Plains",NY,10607,0
+104300840,"Capital City Go-Go at Erie BayHawks",Basketball,2019-11-22T19:00:00-0500,"Erie Insurance Arena",Erie,PA,16501,0
+104234534,"Chicago Wolves at Cleveland Monsters",Hockey,2019-11-22T19:00:00-0500,"Rocket Mortgage FieldHouse",Cleveland,OH,44115,0
+104272910,"Atlanta Hawks at Detroit Pistons",Basketball,2019-11-22T19:00:00-0500,"Little Caesars Arena",Detroit,MI,48201,0
+104215496,"New Jersey Devils at Pittsburgh Penguins",Hockey,2019-11-22T19:00:00-0500,"PPG Paints Arena",Pittsburgh,PA,15219,0
+104272592,"Charlotte Hornets at Washington Wizards",Basketball,2019-11-22T19:00:00-0500,"Capital One Arena",Washington,DC,20004,0
+104208139,"Newfoundland Growlers at Reading Royals",Hockey,2019-11-22T19:00:00-0500,"Santander Arena",Reading,PA,19602,0
+104204719,"Maine Mariners at Norfolk Admirals",Hockey,2019-11-22T17:35:00-0500,Scope,Norfolk,VA,23510,0
+104078917,"Empire Classic Friday Only",Basketball,2019-11-22T17:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104237274,"Myrtle Beach Invitational Session 4",Basketball,2019-11-22T16:30:00-0500,"HTC Center",Conway,SC,29526,0
+104237273,"Myrtle Beach Invitational Session 3",Basketball,2019-11-22T12:00:00-0500,"HTC Center",Conway,SC,29526,0
+104236667,"Charleston Classic Session 3",Basketball,2019-11-22T12:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104276466,"New Orleans Pelicans at Phoenix Suns",Basketball,2019-11-21T20:30:00-0700,"Talking Stick Resort Arena",Phoenix,AZ,85004,0
+104206694,"Hofstra Pride at UCLA Bruins Basketball",Basketball,2019-11-21T20:00:00-0800,"Pauley Pavilion","Los Angeles",CA,90095,0
+104217370,"Edmonton Oilers at Los Angeles Kings",Hockey,2019-11-21T19:30:00-0800,"STAPLES Center","Los Angeles",CA,90015,0
+104217359,"Winnipeg Jets at Dallas Stars",Hockey,2019-11-21T19:30:00-0600,"American Airlines Center",Dallas,TX,75219,0
+104059105,"Indianapolis Colts at Houston Texans",Football,2019-11-21T19:20:00-0600,"NRG Stadium",Houston,TX,77054,0
+104389531,"Fresno Monsters at Valencia Flyers",Hockey,2019-11-21T19:15:00-0800,"Ice Station Valencia","Santa Clarita",California,91355,0
+104214730,"San Jose Sharks at Vegas Golden Knights",Hockey,2019-11-21T19:00:00-0800,"T-Mobile Arena","Las Vegas",NV,89158,0
+104078916,"Empire Classic Thursday Only",Basketball,2019-11-21T19:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104214623,"Calgary Flames at St. Louis Blues",Hockey,2019-11-21T19:00:00-0600,"Enterprise Center","Saint Louis",MO,63103,0
+104215316,"Vancouver Canucks at Nashville Predators",Hockey,2019-11-21T19:00:00-0600,"Bridgestone Arena",Nashville,TN,37203,0
+104213973,"Toronto Maple Leafs at Arizona Coyotes",Hockey,2019-11-21T19:00:00-0700,"Gila River Arena",Glendale,AZ,85305,0
+104242075,"Harvard Crimson at RPI Engineers Hockey",Hockey,2019-11-22T19:00:00-0500,"Houston Field House",Troy,NY,12180,0
+104236668,"Charleston Classic Session 4",Basketball,2019-11-22T19:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104303127,"Long Island Nets at Canton Charge",Basketball,2019-11-22T19:00:00-0500,"Canton Civic Center",Canton,OH,44702,0
+104301453,"Wisconsin Herd at Westchester Knicks",Basketball,2019-11-22T19:00:00-0500,"Westchester County Center","White Plains",NY,10607,0
+104300840,"Capital City Go-Go at Erie BayHawks",Basketball,2019-11-22T19:00:00-0500,"Erie Insurance Arena",Erie,PA,16501,0
+104234534,"Chicago Wolves at Cleveland Monsters",Hockey,2019-11-22T19:00:00-0500,"Rocket Mortgage FieldHouse",Cleveland,OH,44115,0
+104272910,"Atlanta Hawks at Detroit Pistons",Basketball,2019-11-22T19:00:00-0500,"Little Caesars Arena",Detroit,MI,48201,0
+104215496,"New Jersey Devils at Pittsburgh Penguins",Hockey,2019-11-22T19:00:00-0500,"PPG Paints Arena",Pittsburgh,PA,15219,0
+104272592,"Charlotte Hornets at Washington Wizards",Basketball,2019-11-22T19:00:00-0500,"Capital One Arena",Washington,DC,20004,0
+104208139,"Newfoundland Growlers at Reading Royals",Hockey,2019-11-22T19:00:00-0500,"Santander Arena",Reading,PA,19602,0
+104204719,"Maine Mariners at Norfolk Admirals",Hockey,2019-11-22T17:35:00-0500,Scope,Norfolk,VA,23510,0
+104078917,"Empire Classic Friday Only",Basketball,2019-11-22T17:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104237274,"Myrtle Beach Invitational Session 4",Basketball,2019-11-22T16:30:00-0500,"HTC Center",Conway,SC,29526,0
+104237273,"Myrtle Beach Invitational Session 3",Basketball,2019-11-22T12:00:00-0500,"HTC Center",Conway,SC,29526,0
+104236667,"Charleston Classic Session 3",Basketball,2019-11-22T12:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104276466,"New Orleans Pelicans at Phoenix Suns",Basketball,2019-11-21T20:30:00-0700,"Talking Stick Resort Arena",Phoenix,AZ,85004,0
+104206694,"Hofstra Pride at UCLA Bruins Basketball",Basketball,2019-11-21T20:00:00-0800,"Pauley Pavilion","Los Angeles",CA,90095,0
+104217370,"Edmonton Oilers at Los Angeles Kings",Hockey,2019-11-21T19:30:00-0800,"STAPLES Center","Los Angeles",CA,90015,0
+104217359,"Winnipeg Jets at Dallas Stars",Hockey,2019-11-21T19:30:00-0600,"American Airlines Center",Dallas,TX,75219,0
+104059105,"Indianapolis Colts at Houston Texans",Football,2019-11-21T19:20:00-0600,"NRG Stadium",Houston,TX,77054,0
+104389531,"Fresno Monsters at Valencia Flyers",Hockey,2019-11-21T19:15:00-0800,"Ice Station Valencia","Santa Clarita",California,91355,0
+104214730,"San Jose Sharks at Vegas Golden Knights",Hockey,2019-11-21T19:00:00-0800,"T-Mobile Arena","Las Vegas",NV,89158,0
+104078916,"Empire Classic Thursday Only",Basketball,2019-11-21T19:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104214623,"Calgary Flames at St. Louis Blues",Hockey,2019-11-21T19:00:00-0600,"Enterprise Center","Saint Louis",MO,63103,0
+104215316,"Vancouver Canucks at Nashville Predators",Hockey,2019-11-21T19:00:00-0600,"Bridgestone Arena",Nashville,TN,37203,0
+104213973,"Toronto Maple Leafs at Arizona Coyotes",Hockey,2019-11-21T19:00:00-0700,"Gila River Arena",Glendale,AZ,85305,0
+104217013,"Carolina Hurricanes at Detroit Red Wings",Hockey,2019-11-24T19:00:00-0500,"Little Caesars Arena",Detroit,MI,48201,0
+104236670,"Charleston Classic Session 6",Basketball,2019-11-24T18:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104274553,"Sacramento Kings at Washington Wizards",Basketball,2019-11-24T18:00:00-0500,"Capital One Arena",Washington,DC,20004,0
+104276278,"Brooklyn Nets at New York Knicks",Basketball,2019-11-24T18:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104421713,"Texas Brahmas at Mid Cities Jr. Stars",Hockey,2019-11-24T17:30:00-0600,"Children's Health StarCenter Ice Rink","Farmers Branch",Texas,75234,0
+104237275,"Myrtle Beach Invitational Session 6",Basketball,2019-11-24T17:00:00-0500,"HTC Center",Conway,SC,29526,0
+104215363,"Buffalo Sabres at Florida Panthers",Hockey,2019-11-24T17:00:00-0500,"BB&T Center",Sunrise,FL,33323,0
+104302439,"Windy City Bulls at Fort Wayne Mad Ants",Basketball,2019-11-24T17:00:00-0500,"Allen County Memorial Coliseum Arena","Fort Wayne",IN,46805,0
+104059232,"Dallas Cowboys at New England Patriots",Football,2019-11-24T16:25:00-0500,"Gillette Stadium",Foxborough,MA,02035,0
+104208904,"Allen Americans at Wichita Thunder",Hockey,2019-11-24T16:05:00-0600,"INTRUST Bank Arena",Wichita,KS,67202,0
+104423948,"Wausau RiverWolves at Milwaukee Power",Hockey,2019-11-24T16:00:00-0600,"Wilson Ice Arena",Milwaukee,Wisconsin,53221,0
+104303078,"Salt Lake City Stars at Austin Spurs",Basketball,2019-11-24T16:00:00-0600,"H-E-B Center at Cedar Park","Cedar Park",TX,78613,0
+104208854,"Newfoundland Growlers at Reading Royals",Hockey,2019-11-24T16:00:00-0500,"Santander Arena",Reading,PA,19602,0
+104235274,"Hershey Bears at Providence Bruins",Hockey,2019-11-24T15:05:00-0500,"Dunkin Donuts Center",Providence,RI,02903,0
+104059316,"Jacksonville Jaguars at Tennessee Titans",Football,2019-11-24T15:05:00-0600,"Nissan Stadium Nashville",Nashville,TN,37213,0
+104335214,"TBD at IPFW Mastodons Basketball",Basketball,2019-11-24T15:00:00-0500,"Hilliard Gates Sports Center","Fort Wayne",IN,46805,0
+104236301,"Rockford IceHogs at San Antonio Rampage",Hockey,2019-11-24T15:00:00-0600,"AT&T Center","San Antonio",TX,78219,0
+104303025,"Canton Charge at Agua Caliente Clippers",Basketball,2019-11-24T15:00:00-0800,"Toyota Arena",Ontario,CA,91764,0
+104233543,"Bakersfield Condors at Iowa Wild",Hockey,2019-11-24T15:00:00-0600,"Wells Fargo Arena (Des Moines)","Des Moines",IA,50309,0
+104272752,"Dallas Mavericks at Houston Rockets",Basketball,2019-11-24T14:30:00-0600,"Toyota Center",Houston,TX,77002,0
+104381818,"Dallas Snipers at Oklahoma City Blazers",Hockey,2019-11-24T14:15:00-0600,"Arctic Edge Ice Arena",Edmond,Oklahoma,73013,0
+104206530,"London Knights at Erie Otters",Hockey,2019-11-24T14:00:00-0500,"Erie Insurance Arena",Erie,PA,16501,0
+104378883,"Baltimore Blast at Utica City FC",Soccer,2019-11-24T14:00:00-0500,"Adirondack Bank Center",Utica,NY,13504,0
+104263037,"Adirondack Thunder at Worcester Railers",Hockey,2019-11-24T13:35:00-0500,"DCU Center",Worcester,MA,01608,0
+104407327,"Skylands Kings at Danbury Colonials",Hockey,2019-11-24T13:00:00-0500,"Danbury Ice Arena",Danbury,CT,06810,0
+104227885,"Cal Bears at Utah Utes Womens Volleyball",Volleyball,2019-11-24T13:00:00-0700,"Jon M. Huntsman Center","Salt Lake City",UT,84112,0
+104231747,"LSU at Alabama Crimson Womens Volleyball",Volleyball,2019-11-24T13:00:00-0600,"Foster Auditorium",Tuscaloosa,AL,35401,0
+104236669,"Charleston Classic Session 5",Basketball,2019-11-24T13:00:00-0500,"TD Arena",Charleston,SC,29401,0
+104059219,"Miami Dolphins at Cleveland Browns",Football,2019-11-24T13:00:00-0500,"FirstEnergy Stadium",Cleveland,OH,44114,0
+104058367,"Detroit Lions at Washington Redskins",Football,2019-11-24T13:00:00-0500,FedExField,Landover,MD,20785,0
+104058298,"Denver Broncos at Buffalo Bills",Football,2019-11-24T13:00:00-0500,"New Era Field","Orchard Park",NY,14127,0
+104059068,"Seattle Seahawks at Philadelphia Eagles",Football,2019-11-24T13:00:00-0500,"Lincoln Financial Field",Philadelphia,PA,19148,0
+104058286,"Tampa Bay Buccaneers at Atlanta Falcons",Football,2019-11-24T13:00:00-0500,"Mercedes-Benz Stadium",Atlanta,GA,30313,0
+104408319,"Maine Wild at Long Beach Sharks",Hockey,2019-11-24T12:15:00-0500,"Long Beach Municipal Ice Arena","Long Beach","New York",11561,0
+104058319,"New York Giants at Chicago Bears",Football,2019-11-24T12:00:00-0600,"Soldier Field",Chicago,IL,60605,0
+104059338,"Carolina Panthers at New Orleans Saints",Football,2019-11-24T12:00:00-0600,"Mercedes-Benz Superdome","New Orleans",LA,70112,0
+104384117,"Valencia Flyers at San Diego Sabers",Hockey,2019-11-24T11:30:00-0800,"Ice-Plex Escondido",Escondido,California,92025,0
+104236658,"Myrtle Beach Invitational Session 5",Basketball,2019-11-24T10:30:00-0500,"HTC Center",Conway,SC,29526,0
+104381864,"Fresno Monsters at San Diego Sabers",Hockey,2019-11-23T20:15:00-0800,"Ice-Plex Escondido",Escondido,California,92025,0
+104425150,"St. Louis Jr. Blues at Milwaukee Power",Hockey,2019-11-23T20:00:00-0600,"Wilson Ice Arena",Milwaukee,Wisconsin,53221,0
+104275223,"Los Angeles Lakers at Memphis Grizzlies",Basketball,2019-11-23T20:00:00-0600,FedExForum,Memphis,TN,38103,0
+104280750,"Missoula Junior Bruins at Butte Cobras",Hockey,2019-11-23T19:30:00-0700,"Butte Community Ice Center",Butte,Montana,59701,0
+104406672,"Sheridan Hawks at Great Falls Americans",Hockey,2019-11-23T19:30:00-0700,"Great Falls Ice Plex","Great Falls",Montana,59404,0
+104447571,"Danville Dashers at Watertown Wolves",Hockey,2019-11-23T19:30:00-0500,"Watertown Municipal Arena",Watertown,"New York",13601,0
+104423205,"Texas Brahmas at Mid Cities Jr. Stars",Hockey,2019-11-23T19:30:00-0600,"Children's Health StarCenter Ice Rink","Farmers Branch",Texas,75234,0
+104214745,"New York Islanders at San Jose Sharks",Hockey,2019-11-23T19:30:00-0800,"SAP Center","San Jose",CA,95113,0
+104302527,"Oklahoma City Blue at Texas Legends",Basketball,2019-11-23T19:30:00-0600,"Comerica Center",Frisco,TX,75034,0
+104208182,"Indy Fuel at Cincinnati Cyclones",Hockey,2019-11-23T19:30:00-0500,"Heritage Bank Center",Cincinnati,OH,45202,0
+104179904,"SMU Mustangs at UNLV Rebels Basketball",Basketball,2019-11-23T19:30:00-0800,"Thomas and Mack Center","Las Vegas",NV,89147,0
+104151562,"Wheeling Nailers at Fort Wayne Komets",Hockey,2019-11-23T19:30:00-0500,"Allen County Memorial Coliseum Arena","Fort Wayne",IN,46805,0
+104277184,"San Antonio Spurs at New York Knicks",Basketball,2019-11-23T19:30:00-0500,"Madison Square Garden","New York",NY,10001,0
+104272540,"Toronto Raptors at Atlanta Hawks",Basketball,2019-11-23T19:30:00-0500,"State Farm Arena",Atlanta,GA,30303,0
+104273576,"Miami Heat at Philadelphia 76ers",Basketball,2019-11-23T19:30:00-0500,"Wells Fargo Center Philadelphia",Philadelphia,PA,19148,0
+104280948,"Chippewa Steel at Aberdeen Wings",Hockey,2019-11-23T19:15:00-0600,"Odde Ice Center - Aberdeen",Aberdeen,"South Dakota",57401,0
+104384103,"Dallas Snipers at Oklahoma City Blazers",Hockey,2019-11-23T19:15:00-0600,"Arctic Edge Ice Arena",Edmond,Oklahoma,73013,0
+104204020,"Kalamazoo Wings at Toledo Walleye",Hockey,2019-11-23T19:15:00-0500,"Huntington Center",Toledo,OH,43604,0
+104224732,"Quad City Storm at Peoria Rivermen",Hockey,2019-11-23T19:15:00-0600,"Peoria Civic Center and Carver Arena",Peoria,IL,61602,0
+104281327,"Willmar WarHawks at Alexandria Blizzard",Hockey,2019-11-23T19:10:00-0600,"Runestone Community Center",Alexandria,Minnesota,56308,0
+104295072,"Bismarck Bobcats at St. Cloud Blizzard",Hockey,2019-11-23T19:10:00-0600,"St. Cloud Municipal Athletic Complex","St. Cloud",Minnesota,56303,0
+104206202,"Orlando Solar Bears at Utah Grizzlies",Hockey,2019-11-23T19:10:00-0700,"Maverik Center","West Valley City",UT,84119,0
+104278246,"Windsor Spitfires at Saginaw Spirit",Hockey,2019-11-23T19:05:00-0500,"Dow Event Center",Saginaw,MI,48607,0
+104238898,"Sioux City Musketeers at Team USA USHL",Hockey,2019-11-23T19:05:00-0500,"USA Hockey Arena",Plymouth,MI,48170,0
+104238790,"Fargo Force at Lincoln Stars",Hockey,2019-11-23T19:05:00-0600,"The Ice Box",Lincoln,Nebraska,68508,0
+104239649,"Madison Capitols at Chicago Steel",Hockey,2019-11-23T19:05:00-0600,"Fox Valley Ice Arena",Geneva,Illinois,60134,0
+104241001,"Muskegon Lumberjacks at Omaha Lancers",Hockey,2019-11-23T19:05:00-0600,"Ralston Arena",Ralston,NE,68127,0
+104406674,"Bozeman Icedogs at Helena Bighorns",Hockey,2019-11-23T19:05:00-0700,"Helena Ice Arena",Helena,MT,59601,0
+104407340,"Yellowstone Quake at Gillette Wild",Hockey,2019-11-23T19:05:00-0700,"Spirit Hall Ice Arena",Gillette,Wyoming,82718,0
+104284044,"Odessa Jackalopes at Amarillo Bulls",Hockey,2019-11-23T19:05:00-0600,"Amarillo Civic Center",Amarillo,TX,79101,0
+104241178,"Team USA USHL at Tri City Storm",Hockey,2019-11-23T19:05:00-0600,"Viaero Event Center",Kearney,NE,68845,0
+104445863,"Elmira Enforcers at Delaware Thunder",Hockey,2019-11-23T19:05:00-0500,"Centre Ice Arena Delaware",Harrington,Delaware,19952,0
+104219574,"Winnipeg Ice at Spokane Chiefs",Hockey,2019-11-23T19:05:00-0800,"Spokane Arena",Spokane,WA,99201,0
+104208789,"Wichita Thunder at Allen Americans",Hockey,2019-11-23T19:05:00-0600,"Allen Event Center",Allen,TX,75002,0
+104235612,"Rochester Americans at Binghamton Devils",Hockey,2019-11-23T19:05:00-0500,"Floyd L Maines Veterans Memorial Arena",Binghamton,NY,13901,0
+104291133,"Austin Bruins at Minnesota Magicians",Hockey,2019-11-23T19:05:00-0600,"Richfield Ice Arena",Richfield,Minnesota,55423,0
+104167782,"Tulsa Oilers at Rapid City Rush",Hockey,2019-11-23T19:05:00-0700,"Rushmore Plaza Civic Center","Rapid City",SD,57701,0
+104220500,"Kelowna Rockets at Tri City Americans",Hockey,2019-11-23T19:05:00-0800,"Toyota Center Kennewick",Kennewick,WA,99336,0
+104243223,"Powassan Voodoos at Soo Eagles",Hockey,2019-11-23T19:00:00-0500,"Pullar Stadium","Sault Ste. Marie",Michigan,49783,0
+104226361,"Evansville Thunderbolts at Macon Mayhem",Hockey,2019-11-23T19:00:00-0500,"Macon Centreplex",Macon,GA,31217,0
+104206655,"Owen Sound Attack at Flint Firebirds",Hockey,2019-11-23T19:00:00-0500,"Dort Federal Credit Union Event Center",Flint,MI,48503,0
+104408303,"Northeast Generals at L/A Nordiques",Hockey,2019-11-23T19:00:00-0500,"Androscoggin Bank Colisee",Lewiston,ME,04240,0
+104293617,"Maine Nordiques at New Jersey Titans",Hockey,2019-11-23T19:00:00-0500,"Middletown Ice Arena",Middletown,"New Jersey",07748,0
+104300842,"Raptors 905 at Erie BayHawks",Basketball,2019-11-23T19:00:00-0500,"Erie Insurance Arena",Erie,PA,16501,0
+104236437,"Hershey Bears at Bridgeport Sound Tigers",Hockey,2019-11-23T19:00:00-0500,"Webster Bank Arena",Bridgeport,CT,06604,0
+104236514,"Ontario Reign at Tucson Roadrunners",Hockey,2019-11-23T19:00:00-0700,"Tucson Convention Center",Tucson,AZ,85701,0
+104234661,"Rockford IceHogs at Texas Stars",Hockey,2019-11-23T19:00:00-0600,"H-E-B Center at Cedar Park","Cedar Park",TX,78613,0
+104301664,"Wisconsin Herd at Delaware Blue Coats",Basketball,2019-11-23T19:00:00-0500,"76ers Fieldhouse",Wilmington,Delaware,19801,0
+104300988,"Westchester Knicks at Maine Red Claws",Basketball,2019-11-23T19:00:00-0500,"Portland Expo Center ME",Portland,ME,04102,0
+104233881,"Stockton Heat at San Diego Gulls",Hockey,2019-11-23T19:00:00-0800,"Pechanga Arena","San Diego",CA,92110,0
+104212435,"Minnesota Wild at Boston Bruins",Hockey,2019-11-23T19:00:00-0500,"TD Garden",Boston,MA,02114,0
+104235215,"Hartford Wolf Pack at Syracuse Crunch",Hockey,2019-11-23T19:00:00-0500,"War Memorial At OnCenter",Syracuse,NY,13202,0
+104274501,"New Orleans Pelicans at Utah Jazz",Basketball,2019-11-23T19:00:00-0700,"Vivint Smart Home Arena","Salt Lake City",UT,84101,0
+104217211,"Anaheim Ducks at Tampa Bay Lightning",Hockey,2019-11-23T19:00:00-0500,"Amalie Arena",Tampa,FL,33602,0
+104273925,"Chicago Bulls at Charlotte Hornets",Basketball,2019-11-23T19:00:00-0500,"Spectrum Center",Charlotte,NC,28202,0
+104214703,"Florida Panthers at Carolina Hurricanes",Hockey,2019-11-23T19:00:00-0500,"PNC Arena",Raleigh,NC,27607,0
+104275157,"Orlando Magic at Indiana Pacers",Basketball,2019-11-23T19:00:00-0500,"Bankers Life Fieldhouse",Indianapolis,IN,46204,0
+104214906,"Detroit Red Wings at New Jersey Devils",Hockey,2019-11-23T19:00:00-0500,"Prudential Center",Newark,NJ,07102,0
+104213927,"Edmonton Oilers at Vegas Golden Knights",Hockey,2019-11-23T19:00:00-0800,"T-Mobile Arena","Las Vegas",NV,89158,0
+104208853,"Newfoundland Growlers at Reading Royals",Hockey,2019-11-23T19:00:00-0500,"Santander Arena",Reading,PA,19602,0
+104234452,"Bakersfield Condors at Iowa Wild",Hockey,2019-11-23T19:00:00-0600,"Wells Fargo Arena (Des Moines)","Des Moines",IA,50309,0
+104214628,"Nashville Predators at St. Louis Blues",Hockey,2019-11-23T19:00:00-0600,"Enterprise Center","Saint Louis",MO,63103,0
+104212976,"Chicago Blackhawks at Dallas Stars",Hockey,2019-11-23T19:00:00-0600,"American Airlines Center",Dallas,TX,75219,0
+104385213,"Ogden Mustangs at Utah Outliers",Hockey,2019-11-23T18:30:00-0700,"West Valley Acord Ice Center","West Valley City",Utah,84120,0
+104218811,"Saskatoon Blades at Seattle Thunderbirds",Hockey,2019-11-23T18:05:00-0800,"ShoWare Center",Kent,WA,98032,0
+104293000,"Janesville Jets at Springfield Jr Blues",Hockey,2019-11-23T18:05:00-0600,"The Nelson Center Springfield",Springfield,Illinois,62702,0
+104303268,"Lakeland Magic at Northern Arizona Suns",Basketball,2019-11-23T17:00:00-0700,"Findlay Toyota Center","Prescott Valley",AZ,86314,0
+104234665,"Cleveland Monsters at Charlotte Checkers",Hockey,2019-11-26T19:00:00-0500,"Bojangles Coliseum",Charlotte,NC,28205,0
+104059908,"Ohio Bobcats at Akron Zips Football",Football,2019-11-26T19:00:00-0500,"InfoCision Stadium",Akron,OH,44325,0
+104213324,"Norfolk Admirals at Orlando Solar Bears",Hockey,2019-11-26T19:00:00-0500,"Amway Center",Orlando,FL,32801,0
+104204675,"Worcester Railers at Maine Mariners",Hockey,2019-11-26T19:00:00-0500,"Cross Insurance Arena",Portland,ME,04101,0
+104216032,"Minnesota Wild at New Jersey Devils",Hockey,2019-11-26T19:00:00-0500,"Prudential Center",Newark,NJ,07102,0
+104082707,"Hall of Fame Classic Finals",Basketball,2019-11-26T18:00:00-0600,"Sprint Center","Kansas City",MO,64106,0
+104079298,"Legends Classic Tuesday",Basketball,2019-11-26T17:00:00-0500,"Barclays Center",Brooklyn,NY,11217,0
+104235849,"Maui Invitational Game 6",Basketball,2019-11-26T12:00:00-1000,"Lahaina Civic Center",Lahaina,HI,96761,0
+104303279,"Columbus Classic Shootout",Basketball,2019-11-26T11:00:00-0500,"Columbus Civic Center",Columbus,GA,31901,0
+104236823,"Maui Invitational Game 5",Basketball,2019-11-26T09:30:00-1000,"Lahaina Civic Center",Lahaina,HI,96761,0
+104303081,"Lakeland Magic at Austin Spurs",Basketball,2019-11-25T19:30:00-0600,"H-E-B Center at Cedar Park","Cedar Park",TX,78613,0
+104272659,"Sacramento Kings at Boston Celtics",Basketball,2019-11-25T19:30:00-0500,"TD Garden",Boston,MA,02114,0
+104276483,"Los Angeles Lakers at San Antonio Spurs",Basketball,2019-11-25T19:30:00-0600,"AT&T Center","San Antonio",TX,78219,0
+104276008,"Charlotte Hornets at Miami Heat",Basketball,2019-11-25T19:30:00-0500,"American Airlines Arena",Miami,FL,33132,0
+104215434,"San Jose Sharks at Los Angeles Kings",Hockey,2019-11-25T19:30:00-0800,"STAPLES Center","Los Angeles",CA,90015,0
+104274505,"Minnesota Timberwolves at Atlanta Hawks",Basketball,2019-11-25T19:30:00-0500,"State Farm Arena",Atlanta,GA,30303,0
+104217361,"Vegas Golden Knights at Dallas Stars",Hockey,2019-11-25T19:30:00-0600,"American Airlines Center",Dallas,TX,75219,0
+104303220,"Erie BayHawks at Grand Rapids Drive",Basketball,2019-11-25T19:00:00-0500,Deltaplex,"Grand Rapids",MI,49544,0
+104274948,"Utah Jazz at Milwaukee Bucks",Basketball,2019-11-25T19:00:00-0600,"Fiserv Forum",Milwaukee,WI,53203,0
+104301820,"Maine Red Claws at Memphis Hustle",Basketball,2019-11-25T19:00:00-0600,"Landers Center",Southaven,MS,38671,0
+104273739,"Brooklyn Nets at Cleveland Cavaliers",Basketball,2019-11-25T19:00:00-0500,"Rocket Mortgage FieldHouse",Cleveland,OH,44115,0
+104300944,"Santa Cruz Warriors at Texas Legends",Basketball,2019-11-25T19:00:00-0600,"Comerica Center",Frisco,TX,75034,0
+104214693,"Vancouver Canucks at Philadelphia Flyers",Hockey,2019-11-25T19:00:00-0500,"Wells Fargo Center Philadelphia",Philadelphia,PA,19148,0
+104214792,"Ottawa Senators at Columbus Blue Jackets",Hockey,2019-11-25T19:00:00-0500,"Nationwide Arena",Columbus,OH,43215,0
+104274767,"Orlando Magic at Detroit Pistons",Basketball,2019-11-25T19:00:00-0500,"Little Caesars Arena",Detroit,MI,48201,0
+104078369,"Legends Classic Monday",Basketball,2019-11-25T19:00:00-0500,"Barclays Center",Brooklyn,NY,11217,0
+104215455,"Buffalo Sabres at Tampa Bay Lightning",Hockey,2019-11-25T19:00:00-0500,"Amalie Arena",Tampa,FL,33602,0
+104217565,"Calgary Flames at Pittsburgh Penguins",Hockey,2019-11-25T19:00:00-0500,"PPG Paints Arena",Pittsburgh,PA,15219,0
+104275133,"Memphis Grizzlies at Indiana Pacers",Basketball,2019-11-25T19:00:00-0500,"Bankers Life Fieldhouse",Indianapolis,IN,46204,0
+104215320,"St. Louis Blues at Nashville Predators",Hockey,2019-11-25T19:00:00-0600,"Bridgestone Arena",Nashville,TN,37203,0
+104217457,"New York Islanders at Anaheim Ducks",Hockey,2019-11-25T19:00:00-0800,"Honda Center",Anaheim,CA,92806,0
+104276225,"Portland Trail Blazers at Chicago Bulls",Basketball,2019-11-25T19:00:00-0600,"United Center",Chicago,IL,60612,0
+104217469,"Minnesota Wild at New York Rangers",Hockey,2019-11-25T19:00:00-0500,"Madison Square Garden","New York",NY,10001,0
+104081229,"Hall of Fame Classic Semifinals",Basketball,2019-11-25T18:00:00-0600,"Sprint Center","Kansas City",MO,64106,0
+104059152,"Baltimore Ravens at Los Angeles Rams",Football,2019-11-25T17:15:00-0800,"Los Angeles Coliseum","Los Angeles",CA,90037,0
